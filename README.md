@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0168-excel-sheet-column-title) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0345-reverse-vowels-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
