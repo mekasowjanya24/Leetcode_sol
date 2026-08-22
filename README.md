@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0168-excel-sheet-column-title) |
 | [0263-ugly-number](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0326-power-of-three) |
@@ -37,5 +38,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
