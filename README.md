@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0412-fizz-buzz) |
 | [1154-day-of-the-year](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/1154-day-of-the-year) |
 ## String
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0168-excel-sheet-column-title) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0412-fizz-buzz) |
 | [1154-day-of-the-year](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/1154-day-of-the-year) |
 ## Array
 |  |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0292-nim-game) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
