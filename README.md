@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0412-fizz-buzz) |
+| [0492-construct-the-rectangle](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0492-construct-the-rectangle) |
 | [1154-day-of-the-year](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/1154-day-of-the-year) |
 ## String
 |  |
