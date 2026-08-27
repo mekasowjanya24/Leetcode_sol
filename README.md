@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0492-construct-the-rectangle) |
 | [1154-day-of-the-year](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/1154-day-of-the-year) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0342-power-of-four) |
 ## Brainteaser
 |  |
 | ------- |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0412-fizz-buzz) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
