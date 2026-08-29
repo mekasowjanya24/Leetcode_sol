@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0168-excel-sheet-column-title) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0412-fizz-buzz) |
 | [1154-day-of-the-year](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/1154-day-of-the-year) |
 ## Array
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0191-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
