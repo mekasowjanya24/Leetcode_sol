@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0455-assign-cookies) |
 ## Recursion
 |  |
 | ------- |
@@ -87,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0383-ransom-note) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
