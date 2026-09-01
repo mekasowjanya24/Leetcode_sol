@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0860-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
 | ------- |
