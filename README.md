@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0055-jump-game) |
 | [0349-intersection-of-two-arrays](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0455-assign-cookies) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0860-lemonade-change) |
@@ -105,5 +107,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
