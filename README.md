@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0055-jump-game) |
 | [0349-intersection-of-two-arrays](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0860-lemonade-change) |
 ## Hash Table
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0455-assign-cookies) |
 ## Recursion
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0860-lemonade-change) |
 ## Quicksort
@@ -109,4 +112,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
