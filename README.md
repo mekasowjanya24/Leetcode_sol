@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0412-fizz-buzz) |
+| [0678-valid-parenthesis-string](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0678-valid-parenthesis-string) |
 | [1154-day-of-the-year](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/1154-day-of-the-year) |
 ## Array
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
@@ -113,4 +115,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0678-valid-parenthesis-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
