@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0860-lemonade-change) |
+| [3074-apple-redistribution-into-boxes](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/3074-apple-redistribution-into-boxes) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0455-assign-cookies) |
+| [3074-apple-redistribution-into-boxes](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/3074-apple-redistribution-into-boxes) |
 ## Recursion
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0860-lemonade-change) |
+| [3074-apple-redistribution-into-boxes](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/3074-apple-redistribution-into-boxes) |
 ## Quicksort
 |  |
 | ------- |
