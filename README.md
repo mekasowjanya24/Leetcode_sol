@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0492-construct-the-rectangle) |
+| [0976-largest-perimeter-triangle](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0976-largest-perimeter-triangle) |
 | [1154-day-of-the-year](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/1154-day-of-the-year) |
 ## String
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0860-lemonade-change) |
+| [0976-largest-perimeter-triangle](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0976-largest-perimeter-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/3074-apple-redistribution-into-boxes) |
 ## Hash Table
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0455-assign-cookies) |
+| [0976-largest-perimeter-triangle](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0976-largest-perimeter-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/3074-apple-redistribution-into-boxes) |
 ## Recursion
 |  |
@@ -112,12 +115,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0860-lemonade-change) |
+| [0976-largest-perimeter-triangle](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0976-largest-perimeter-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/3074-apple-redistribution-into-boxes) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0455-assign-cookies) |
+| [0976-largest-perimeter-triangle](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0976-largest-perimeter-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -133,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0678-valid-parenthesis-string) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
