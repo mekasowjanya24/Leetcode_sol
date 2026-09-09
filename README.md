@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0056-merge-intervals) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0011-container-with-most-water) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0455-assign-cookies) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0435-non-overlapping-intervals) |
