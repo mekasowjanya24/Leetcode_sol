@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0976-largest-perimeter-triangle) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/3074-apple-redistribution-into-boxes) |
 ## Hash Table
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0976-largest-perimeter-triangle) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/3074-apple-redistribution-into-boxes) |
 ## Quicksort
 |  |
