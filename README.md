@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/0976-largest-perimeter-triangle) |
 | [1154-day-of-the-year](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/1154-day-of-the-year) |
 | [1323-maximum-69-number](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/1323-maximum-69-number) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## String
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1323-maximum-69-number](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/1323-maximum-69-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/3074-apple-redistribution-into-boxes) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/mekasowjanya24/Leetcode_sol/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Quicksort
 |  |
 | ------- |
